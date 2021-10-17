@@ -1,7 +1,8 @@
 ---
 name: " Solicitud de funcionalidad o tema"
 about: todas las sugerencias sobre los temas aboradados
-title: ''
+title: ''jnjnjnj
+
 labels: ''
 assignees: ''
 
